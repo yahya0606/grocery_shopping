@@ -18,9 +18,10 @@ It allows users to add grocery items by name, specify quantities, and get a runn
 ## 🧠 Tech Stack
 
 - Java
-- Object-Oriented Programming
-- Exceptions & Arrays
-- Console I/O with Scanner
+- Console I/O (Scanner)
+- Control flow
+- Exception handling
+- Basic data structures (arrays)
 
 ---
 
